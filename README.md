@@ -2,10 +2,10 @@
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
   </a>, I'm Ayush Srivastav</h1>
   </br>
-  ## Large File Processor
+    
+  # Large File Processor
   
   ## STEPS to RUN THE Code
-  
   - Install Docker on your system, ignore if it is already installed
   - Clone the Project in any diretory on your local machine
   - Open terminal and go to the directory where project is cloned
